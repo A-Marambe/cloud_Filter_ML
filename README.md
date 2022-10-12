@@ -1,6 +1,6 @@
 # cloud_Filter_ML
 why this code? 
-there different ways of cloud masking of satellite images. Satellite images include QC band(Fmask algorithm), which is usable in cloud masking. In practical situations, it is not detecting some clouds and shadows correctly all the time. We can use well representative trainnig data set generated using Fmask and visual observation to train a model to classify the clods and clod shadows in images.
+there different ways of cloud masking of satellite images. Satellite images include QC band(Fmask algorithm), which is usable in cloud masking. In practical situations, it is not detecting some clouds and shadows correctly all the time. We can use well representative trainnig data set manually generated using a image processing software to train a model to classify the clouds and cloud shadows in images.
 
 Machine learning algorithms in remote sensing to filter clouds and shadows in satellite images 
 
